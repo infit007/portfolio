@@ -31,10 +31,16 @@ export const projects = [
         link: "https://infit007.github.io/Coffee-Shop-Website/",
     },
     {
-        title: "Coffee Shop Website",
-        description: "Created a responsive coffee shop website using Tailwind CSS and Flowbite, streamlining development with reusable components.",
-        tech: "HTML, CSS, JavaScript, Tailwind CSS, APIs",
-        link: "https://infit007.github.io/Coffee-Shop-Website/",
+        title: "Microscopic Fungi Classification System",
+        description: "Engineered and implemented a deep learning model using MobileNetV2 architecture, achieving 70.62% accuracy by training on a dataset of 5000 images across 5 classes..",
+        tech: "Python, Computer Vision, Flask, TensorFlow/Keras",
+        link: "https://github.com/infit007/fungi_classification",
+    },
+    {
+        title: "Real-Time Driver Drowsiness Detection",
+        description: "Developed a Driver Drowsiness Detection System using Python, OpenCV, and TensorFlow, employing a pre-trained CNN model for real-time eye state classification (’Open’ or ’Closed’) at 30 FPS.",
+        tech: "OpenCV, TensorFlow/Keras, Pygame",
+        link: "",
     },
     
 ]
