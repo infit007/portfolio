@@ -13,7 +13,7 @@ const jobs = [
         logo: "/company.svg", // TODO: Replace with actual logo
         duration: "January 2025 - Present",
         description:
-            "Developed and maintained various client projects, focusing on responsive design and performance optimization.",
+            "Collaborating as a Full-Stack Intern, completing structured modules to strengthen expertise in front-end and back-end development.",
         link: "https://www.triwebapi.com/",
         images: [
             "/SinQlarity.png",
