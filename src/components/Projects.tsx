@@ -7,29 +7,36 @@ import { Card, CardContent } from "@/components/ui/card";
 
 export const projects = [
     {
-        title: "E-commerce Platform",
-        description: "A full-stack e-commerce solution with React, Node.js, and MongoDB",
-        tech: "React",
+        title: "Course-Selling Website",
+        description: " Developed a Fullstack Course Selling App using MERN, enabling admin role management and user functionality" ,
+        tech: "MongoDB, Express JS, React JS, Node JS",
+        link: "https://course-selling-website-two.vercel.app/",
+    },
+    {
+        title: "Interactive Dashboard for Supermarket Sales Analysis",
+        description: "Developed an interactive dashboard analyzing sales data for 1,000+ transactions across 3 branches, providing insights into sales trends, customer demographics, and product performance.",
+        tech: "Power BI, DAX, Excel",
+        link: "https://github.com/infit007/Supermarket-Sales-Analytics",
+    },
+    {
+        title: "End-to-End Loan Repayment Prediction Model",
+        description: "Built a loan repayment prediction model using 9,579 records, achieving 85% accuracy.",
+        tech: " Python, Scikit-Learn, Pandas, Seaborn, Streamlit",
         link: "#",
     },
     {
-        title: "Task Management App",
-        description: "A productivity app built with React Native and Firebase",
-        tech: "React Native",
-        link: "#",
+        title: "Coffee Shop Website",
+        description: "Created a responsive coffee shop website using Tailwind CSS and Flowbite, streamlining development with reusable components.",
+        tech: "HTML, CSS, JavaScript, Tailwind CSS, APIs",
+        link: "https://infit007.github.io/Coffee-Shop-Website/",
     },
     {
-        title: "Data Visualization Dashboard",
-        description: "An interactive dashboard using D3.js and Vue.js",
-        tech: "Vue.js",
-        link: "#",
+        title: "Coffee Shop Website",
+        description: "Created a responsive coffee shop website using Tailwind CSS and Flowbite, streamlining development with reusable components.",
+        tech: "HTML, CSS, JavaScript, Tailwind CSS, APIs",
+        link: "https://infit007.github.io/Coffee-Shop-Website/",
     },
-    {
-        title: "AI Chatbot",
-        description: "A machine learning powered chatbot using Python and TensorFlow",
-        tech: "Python",
-        link: "#",
-    },
+    
 ]
 
 const techColors = {

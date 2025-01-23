@@ -8,41 +8,29 @@ import { JobImages } from "@/components/JobImages";
 
 const jobs = [
     {
-        role: "Senior Full-Stack Developer", // TODO: Replace with actual role
-        company: "Tech Innovators Inc.", // TODO: Replace with actual company name
+        role: "Full-Stack Intern", // TODO: Replace with actual role
+        company: "SinQlarity", // TODO: Replace with actual company name
         logo: "/company.svg", // TODO: Replace with actual logo
-        duration: "2020 - Present",
-        description:
-            "Lead developer for multiple high-impact projects, mentoring junior developers, and implementing best practices.",
-        link: "https://techinnovators.com",
-        images: [],
-    },
-    {
-        role: "Senior Full-Stack Developer", // TODO: Replace with actual role
-        company: "Tech Innovators Inc.", // TODO: Replace with actual company name
-        logo: "/company.svg", // TODO: Replace with actual logo
-        duration: "2018 - 2020",
+        duration: "January 2025 - Present",
         description:
             "Developed and maintained various client projects, focusing on responsive design and performance optimization.",
-        link: "https://websolutions.com",
+        link: "https://www.triwebapi.com/",
         images: [
-            "/devvault.png",
-            "/devvault.png",
+            "/SinQlarity.png",
         ],
     },
     {
-        role: "Senior Full-Stack Developer", // TODO: Replace with actual role
-        company: "Tech Innovators Inc.", // TODO: Replace with actual company name
+        role: "Salesforce Developer Virtual Internship", // TODO: Replace with actual role
+        company: "SmartInternz", // TODO: Replace with actual company name
         logo: "/company.svg", // TODO: Replace with actual logo
-        duration: "2016 - 2018",
+        duration: "July 2024 - August 2024",
         description:
-            "Assisted in the development of web applications, gained experience in agile methodologies and version control.",
-        link: "https://startupventures.com",
-        images: [
-            "/devvault.png",
-            "/devvault.png",
-        ],
+            "8-week internship involving 30 hours of live training. Completed 50 hours of self-paced learning on the Salesforce Trailhead platform. Designed custom apps using Apex programming language along with Visualforce pages and Lightning components.",
+        link: "https://skillwallet.smartinternz.com/internships/salesforce_certificates/5a378f8490c8d6af8647a753812f6e31",
+        images: ["/certificate.png"],
     },
+    
+    
 ]
 
 export const Experience = () => {
