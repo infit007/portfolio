@@ -52,7 +52,7 @@ export const Profile = () => {
                             <div className="flex flex-col items-start justify-center">
                                 <h1 className="font-bold md:mt-4 text-xl md:text-2xl">Jayesh Suntha</h1>
                                 <p className="text-sm md:text-base text-muted-foreground">
-                                Web Developer | Data Analytics
+                                Full-Stack | Data Analytics | AI/ML 
                                 </p>
                             </div>
                         </div>
