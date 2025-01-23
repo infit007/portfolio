@@ -59,18 +59,18 @@ export const Profile = () => {
           </div>
 
           <p className="mt-2 text-start text-sm text-muted-foreground">
-            I am a software engineer with a passion for building products that
-            help people live better lives.
+            Computer Science student skilled in C++, Python, full-stack, and AI
+            solutions
           </p>
           <Button className="mt-4 w-full" asChild>
             {/* TODO: Add resume */}
             {/* TODO: Add link to schedule a call with you using Calendly or Cal */}
             <Link
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1nACS5dPz2h7pBCbE_Bet5E0324KTmv4m/view?usp=sharing"
               target="_blank"
               className="font-semibold uppercase"
             >
-              CONTACT ME
+              RESUME
             </Link>
           </Button>
           <div className="mt-4 flex flex-col space-y-2 border-t border-border pt-4 w-full">

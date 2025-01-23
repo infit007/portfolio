@@ -10,7 +10,7 @@ const jobs = [
   {
     role: "Full-Stack Intern", // TODO: Replace with actual role
     company: "SinQlarity", // TODO: Replace with actual company name
-    logo: "/company.svg", // TODO: Replace with actual logo
+    logo: "/sinqlarity.svg", // TODO: Replace with actual logo
     duration: "January 2025 - Present",
     description:
       "Collaborating as a Full-Stack Intern, completing structured modules to strengthen expertise in front-end and back-end development.",
@@ -20,7 +20,7 @@ const jobs = [
   {
     role: "Salesforce Developer Virtual Internship", // TODO: Replace with actual role
     company: "SmartInternz", // TODO: Replace with actual company name
-    logo: "/company.svg", // TODO: Replace with actual logo
+    logo: "/smartinternz.svg", // TODO: Replace with actual logo
     duration: "July 2024 - August 2024",
     description:
       "8-week internship involving 30 hours of live training. Completed 50 hours of self-paced learning on the Salesforce Trailhead platform. Designed custom apps using Apex programming language along with Visualforce pages and Lightning components.",
